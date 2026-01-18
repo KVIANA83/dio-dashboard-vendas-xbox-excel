@@ -18,7 +18,7 @@ Criar um **dashboard de vendas no Excel**, com foco na **organização, análise
 ## 📁 Estrutura do Repositório
 
 ```
-📁 dashboard-vendas-excel
+📁 dio-dashboard-vendas-xbox-excel
 │
 ├── base.xlsx
 ├── dashboard_xbox_finalizado.xlsx
