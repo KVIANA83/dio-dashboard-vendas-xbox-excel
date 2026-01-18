@@ -20,8 +20,8 @@ Criar um **dashboard de vendas no Excel**, com foco na **organização, análise
 ```
 📁 dio-dashboard-vendas-xbox-excel
 │
-├── 0120950e-64c8-4092-a257-ba22ed198c69.xlsx.xlsx
-├── dashboard_xbox_finalizado.xlsx
+├── 0120950e-64c8-4092-a257-ba22ed198c69.xlsx
+├── 805d54f9-6d53-4246-bed7-4aa2da615923.xlsx
 └── README.md
 ```
 
